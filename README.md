@@ -3,7 +3,8 @@ Detecting Melanoma skin lesion using CNN
 
 The colab notebook can be found at here https://colab.research.google.com/drive/1-h2whMrHFf5dA7BJbKq4zAOKCLiGJjjX?usp=sharing
 
-This is a CNN Model for classifying between nevi, seborrheic keratoses and melanoma(which is the deadliest form of skin cancer). I used the **tensorflow** and **scikit-learn** library for model building and data preparation also I made a basic application for running the model using the **streamlit** library whose code is provided in the app.py file. 
+This is a CNN Model for classifying between nevi, seborrheic keratoses and melanoma(which is the deadliest form of skin cancer). 
+I used the **tensorflow** and **scikit-learn** library for model building and data preparation also I made a basic application for running the model using the **streamlit** library whose code is provided in the app.py file. 
 To run the application simply load the model from the drive link and run in the terminal 'Streamlit run app.py'.
 The trained model weights can be found on this link https://drive.google.com/drive/folders/15dUuGuQYv_5IoslN39BYy5aotO2-WL-a?usp=sharing.
 
