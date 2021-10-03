@@ -1,6 +1,8 @@
 # Skin-Cancer-Detection
 Detecting Melanoma skin lesion using CNN
 
+The colab notebook can be found at here https://colab.research.google.com/drive/1-h2whMrHFf5dA7BJbKq4zAOKCLiGJjjX?usp=sharing
+
 This is a CNN Model for classifying between nevi, seborrheic keratoses and melanoma(which is the deadliest form of skin cancer).
 
 The data and objective are pulled from the 2017 ISIC Challenge on Skin Lesion Analysis Towards Melanoma Detection. 
