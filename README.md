@@ -13,3 +13,5 @@ The data and objective are pulled from the 2017 ISIC Challenge on Skin Lesion An
 The dataset can be found here https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/train.zip(5.3 GB), https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/valid.zip(824.5 GB), https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/test.zip (5.1 GB). 
 
 The final model achieves 80% percent accuracy on the testing dataset. This short paper was used as a reference for the model https://arxiv.org/ftp/arxiv/papers/1703/1703.03108.pdf.
+
+The colab notebook for the project can be found here https://colab.research.google.com/drive/1-h2whMrHFf5dA7BJbKq4zAOKCLiGJjjX?usp=sharing
